@@ -25,8 +25,9 @@ A mobile application for tracking expenses. This app can run on Android. We have
 
 1. Check the Official Docs link for installing Flutter : https://flutter.dev/docs/get-started/install 
 2. Installing Android Studio & setup : https://youtu.be/InigFUSiPl8
-3. How to setup the emulator on android studio : https://developer.android.com/studio/run/emulator 
-4. or, connect a physical device : https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device
+3. [Download](https://flutter.dev/docs/get-started/install) Flutter SDK in c:/src/ folder.and set c:/src/Flutter/bin/ path in environment variable.
+4. How to setup the emulator on android studio : https://developer.android.com/studio/run/emulator 
+5. or, connect a physical device : https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device
 
 ## Getting Started
 
@@ -58,6 +59,7 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 <img src="assets/images/four.jpeg" alt="Splash View" width="200">
 <img src="assets/images/five.jpeg" alt="Splash View" width="200">
 <img src="assets/images/six.jpeg" alt="Splash View" width="200">
+<img src="assets/images/eight.jpeg" alt="Splash View" width="200">
 </p>
 
 ### Created By:-
