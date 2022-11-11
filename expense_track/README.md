@@ -41,9 +41,10 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 
 - Clone this repository using `git clone https://github.com/tejasdobariya/SDP_Project.git`.
 - `flutter pub get` to get all the dependencies.
+- Open the terminal and type below commands to get dependancy
 - <pre>
       flutter clean 
-      flutter pub get 
+      flutter pub get (Get all dependencies)
       flutter pub upgrade 
       flutter run
     </pre>
@@ -59,10 +60,10 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 <img src="assets/images/four.jpeg" alt="Splash View" width="200">
 <img src="assets/images/five.jpeg" alt="Splash View" width="200">
 <img src="assets/images/six.jpeg" alt="Splash View" width="200">
-<img src="assets/images/eight.jpeg" alt="Splash View" width="200">
+<img src="assets/images/seven.jpeg" alt="Splash View" width="200">
 </p>
 
 ### Created By:-
-1) [Tejas Dobariya (CE035)](https://github.com/tejasdobariya/)
-2) [Smit Dhameliya (CE031)](https://github.com/smitdhameliya1/)
+1) [Tejas Dobariya](https://github.com/tejasdobariya/)
+2) [Smit Dhameliya](https://github.com/smitdhameliya1/)
 
